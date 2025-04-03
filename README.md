@@ -1,2 +1,1 @@
-# studreg-html
-It's a Registration portal made using HTML
+Website hosted link: https://jspacdamey.vercel.app/
